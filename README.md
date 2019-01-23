@@ -28,7 +28,7 @@ MQTT-Client-Framework is tested with a long list of brokers:
 * Apollo
 * CloudMQTT
 * aws
-* test
+* test1
 * hbmqtt (MQTTv311 only, limitations)
 * [aedes](https://github.com/mcollina/aedes) 
 * [flespi](https://flespi.com/mqtt-broker) 
